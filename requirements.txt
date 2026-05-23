@@ -1,1 +1,7 @@
-test
+flask
+flask-login
+sqlalchemy
+werkzeug
+pandas
+openpyxl
+gunicorn
